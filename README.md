@@ -1,16 +1,35 @@
-### Hi there 👋
+#### 🧠 Latest thoughts
 
-<!--
-**alan-oliv/alan-oliv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<table>
+  <tr>
+    <td width="27%">
+     <a href="https://github.com/alan-oliv/unstable-diffusion/blob/main/musician-programmer/README.md">
+        <img alt="" src="https://raw.githubusercontent.com/alan-oliv/unstable-diffusion/main/musician-programmer/static/hor-thumbnail.png" width="100%" />
+      </a>
+    </td>
+    <td width="23%">
+      <img alt="" src="https://badgen.net/badge/4/min%20read/darkgray?scale=1&labelColor=darkgray&color=darkgray&cache=360000" width="66px" /><br/>
+      <a href="https://github.com/alan-oliv/unstable-diffusion/blob/main/musician-programmer/README.md">
+        Musician Programmer
+      </a>
+      <br/>
+      <em>Dec 20, 2022</em>
+    </td>
 
-Here are some ideas to get you started:
+  <td width="27%">
+    <a href="https://github.com/alan-oliv/unstable-diffusion/blob/main/pair-less-programming/README.md">
+      <img alt="" src="https://raw.githubusercontent.com/alan-oliv/unstable-diffusion/main/pair-less-programming/static/hor-thumbnail.png" width="100%" />
+    </a>
+  </td>
+  <td width="23%">
+  <img alt="" src="https://badgen.net/badge/2/min%20read/darkgray?scale=1&labelColor=darkgray&color=darkgray&cache=360000" width="66px"/><br />
+    <a href="https://github.com/alan-oliv/unstable-diffusion/blob/main/pair-less-programming/README.md">
+      Pair(less) programming
+    </a>
+    <br/>
+    <em>Dec 15, 2022 </em>
+  </td>
+  </tr>
+</table>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Check out my other [thoughts](https://github.com/alan-oliv/unstable-diffusion)
