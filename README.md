@@ -13,7 +13,7 @@
          A dev's "Eudaimonia"
       </a>
       <br/>
-      <em>Apr 15, 2024</em>
+      <em>Aug 15, 2024</em>
     </td>
     <td width="27%">
      <a href="https://github.com/alan-oliv/unstable-thought-diffusion/blob/main/over-engineering-horror/README.md">
@@ -26,7 +26,7 @@
         Over-engineering horror
       </a>
       <br/>
-      <em>Fev 10, 2024</em>
+      <em>May 10, 2024</em>
     </td>
   </tr>
 
@@ -42,7 +42,7 @@
          A solid front-end
       </a>
       <br/>
-      <em>Jan 22, 2024</em>
+      <em>Mar 22, 2024</em>
     </td>
     <td width="27%">
      <a href="https://github.com/alan-oliv/unstable-thought-diffusion/blob/main/musician-programmer/README.md">
@@ -55,7 +55,7 @@
         Musician Programmer
       </a>
       <br/>
-      <em>Dec 20, 2023</em>
+      <em>Jan 20, 2024</em>
     </td>
 
   </tr>
@@ -72,7 +72,7 @@
         Pair(less) programming
       </a>
       <br/>
-      <em>Dec 15, 2022 </em>
+      <em>Dec 15, 2023</em>
     </td>
   </tr>
 </table>
