@@ -1,5 +1,6 @@
 #### 🧠 Latest thoughts
 
+<!-- posts:start -->
 <table>
 <tr>
   <td width="27%">
@@ -94,5 +95,6 @@
    
   </tr>
 </table>
+<!-- posts:end -->
 
 Check out my other [thoughts](https://github.com/alan-oliv/unstable-thought-diffusion)
