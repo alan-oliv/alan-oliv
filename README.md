@@ -9,7 +9,7 @@
       </a>
     </td>
     <td width="23%">
-      <img alt="" src="https://badgen.net/badge/6/min%20read/darkgray?scale=1&labelColor=darkgray&color=darkgray&cache=360000" width="66px" /><br/>
+      <img alt="" src="https://badgen.net/badge/6/min%20read/555?scale=1&labelColor=555&color=555&cache=360000" width="66px" /><br/>
       <a href="https://github.com/alan-oliv/unstable-thought-diffusion/blob/main/the-signature/README.md">
         The signature
       </a>
@@ -22,7 +22,7 @@
       </a>
     </td>
     <td width="23%">
-      <img alt="" src="https://badgen.net/badge/3/min%20read/darkgray?scale=1&labelColor=darkgray&color=darkgray&cache=360000" width="66px" /><br/>
+      <img alt="" src="https://badgen.net/badge/3/min%20read/555?scale=1&labelColor=555&color=555&cache=360000" width="66px" /><br/>
       <a href="https://github.com/alan-oliv/unstable-thought-diffusion/blob/main/imposter-syndrome-as-a-feature/README.md">
         Imposter syndrome as a feature
       </a>
@@ -37,7 +37,7 @@
       </a>
     </td>
     <td width="23%">
-      <img alt="" src="https://badgen.net/badge/3/min%20read/darkgray?scale=1&labelColor=darkgray&color=darkgray&cache=360000" width="66px" /><br/>
+      <img alt="" src="https://badgen.net/badge/3/min%20read/555?scale=1&labelColor=555&color=555&cache=360000" width="66px" /><br/>
       <a href="https://github.com/alan-oliv/unstable-thought-diffusion/blob/main/when-refactor-becomes-therapy/README.md">
         When refactoring becomes therapy
       </a>
@@ -50,7 +50,7 @@
       </a>
     </td>
     <td width="23%">
-      <img alt="" src="https://badgen.net/badge/4/min%20read/darkgray?scale=1&labelColor=darkgray&color=darkgray&cache=360000" width="66px" /><br/>
+      <img alt="" src="https://badgen.net/badge/4/min%20read/555?scale=1&labelColor=555&color=555&cache=360000" width="66px" /><br/>
       <a href="https://github.com/alan-oliv/unstable-thought-diffusion/blob/main/a-devs-eudaimonia/README.md">
         A dev's "Eudaimonia"
       </a>
@@ -65,7 +65,7 @@
       </a>
     </td>
     <td width="23%">
-      <img alt="" src="https://badgen.net/badge/4/min%20read/darkgray?scale=1&labelColor=darkgray&color=darkgray&cache=360000" width="66px" /><br/>
+      <img alt="" src="https://badgen.net/badge/4/min%20read/555?scale=1&labelColor=555&color=555&cache=360000" width="66px" /><br/>
       <a href="https://github.com/alan-oliv/unstable-thought-diffusion/blob/main/over-engineering-horror/README.md">
         Over-engineering horror
       </a>
@@ -78,7 +78,7 @@
       </a>
     </td>
     <td width="23%">
-      <img alt="" src="https://badgen.net/badge/6/min%20read/darkgray?scale=1&labelColor=darkgray&color=darkgray&cache=360000" width="66px" /><br/>
+      <img alt="" src="https://badgen.net/badge/6/min%20read/555?scale=1&labelColor=555&color=555&cache=360000" width="66px" /><br/>
       <a href="https://github.com/alan-oliv/unstable-thought-diffusion/blob/main/solid-front-end/README.md">
         A solid front-end
       </a>
