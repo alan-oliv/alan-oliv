@@ -9,7 +9,7 @@
       </a>
     </td>
     <td width="23%">
-      <img alt="" src="https://badgen.net/badge/6/min%20read/555?scale=1&labelColor=555&color=555&cache=360000" width="66px" /><br/>
+      <img alt="" src="https://badgen.net/badge/7/min%20read/555?scale=1&labelColor=555&color=555&cache=360000" width="66px" /><br/>
       <a href="https://github.com/alan-oliv/unstable-thought-diffusion/blob/main/the-signature/README.md">
         The signature
       </a>
